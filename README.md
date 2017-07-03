@@ -1,4 +1,4 @@
-# peer
+# peel
 front-end for juicer
 
 ## deploy changes to awseb without committing
